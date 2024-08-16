@@ -11,7 +11,7 @@ I'm a full stack developer and a fresher Data Analyst looking for Successfull Ca
 
 # Linkedin
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhiman-pratap-singh-218b27222)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiman-pratap-singh-218b27222/)
 
 ## Badges
 
