@@ -92,11 +92,11 @@ python analysis.py --plot avg_price_per_bedroom
 
 This project requires the following Python libraries:
 
-pandas
-matplotlib
-seaborn
-plotly
-geopandas
+- pandas
+- matplotlib
+- seaborn
+- plotly
+- geopandas
 
 Ensure that all dependencies are installed using the requirements.txt file.
 
