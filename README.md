@@ -134,5 +134,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Acknowledgements
 
-- The Airbnb dataset is sourced from Kaggle. Link to get UptoDate Data (https://insideairbnb.com/get-the-data/)                                                                                                     - I am very thankfull to Proffesional Data Analyst Alex Freberg (https://www.linkedin.com/in/alex-freberg/) and Analyst Builder(https://www.linkedin.com/company/analyst-builder/) to help me in my beutifull 
+ - The Airbnb dataset is sourced from Kaggle. Link to get UptoDate Data (https://insideairbnb.com/get-the-data/)                                                                                                     - I am very thankfull to Proffesional Data Analyst Alex Freberg (https://www.linkedin.com/in/alex-freberg/) and Analyst Builder(https://www.linkedin.com/company/analyst-builder/) to help me in my beutifull 
   journey as a fresher to become sucessfull sucessfull data analyst.
